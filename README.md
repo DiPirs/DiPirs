@@ -1,12 +1,12 @@
-# 🌟 Hello!
+# Hello!
 
-## 📋 About Me
+## About Me
 
 My name is Ivan, and I’m a frontend developer. <br/>
 Creativity is my middle name. 🎨 <br/>
 I love experimenting, even when it seems like a small detail!
 
-## 💻 Languages and Tools
+## Languages and Tools
 
 ### Frontend
 
